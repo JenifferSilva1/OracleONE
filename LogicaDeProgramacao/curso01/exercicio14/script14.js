@@ -1,0 +1,18 @@
+
+    function pulaLinha() {
+
+        document.write("<br>");
+    }
+
+    function mostra(frase) {
+
+        document.write("**************************************************");
+        pulaLinha();
+        document.write(frase);
+        pulaLinha();
+    }
+
+    mostra("BEM-VINDO AO MEU PROGRAMA");
+    mostra("ELE REALMENTE FUNCIONA");
+    mostra("EU USEI FUNÇÃO PARA FAZER ISSO");
+
