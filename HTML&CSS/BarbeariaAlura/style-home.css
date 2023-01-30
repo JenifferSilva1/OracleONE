@@ -1,0 +1,51 @@
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #ccc;
+    padding: 30px;
+}
+
+
+.titulo-principal {
+    padding-left: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    /* para a lista ocupar somente o tamanho dela, como foco na largura que vai permitir que ela fique do lado de uma imagem, por exemplo */
+    /* vertical-align: top serve para o css alinhar com a linha de cima */
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgbeneficios {
+    width: 50%;
+}
